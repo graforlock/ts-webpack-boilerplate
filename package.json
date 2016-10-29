@@ -4,6 +4,7 @@
   "description": "TS Boilerplate",
   "main": "webpack.config.js",
   "scripts": {
+    "start": "webpack --watch",
     "test": "test"
   },
   "author": "",
